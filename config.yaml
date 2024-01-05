@@ -1,0 +1,6 @@
+core_config_version: 0
+mysql_config_version: 0
+mysql_password: "root"
+mysql_user: "root"
+host: "0.0.0.0"
+disable_telemetry: true
